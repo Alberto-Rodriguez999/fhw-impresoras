@@ -9,7 +9,7 @@
   ·MS722: Utilizada en grandes volumenes de trabajo ofreciendo una velocidad aun mayor que los modelos anteriores, siendo en este caso de 70 ppm. Por otro lado la capacidad de papel llega a las 650 hojas con una calidad de impresión más nítida que los modelos anteriores. Por otro lado incluye mejoras que favorecen a la ciberseguridad.
 
 *Ejemplo de Lexmark 625*
-
+![](https://github.com/Alberto-Rodriguez999/fhw-impresoras/blob/main/IMG/625.png)
 
 ## Ricoh
 
@@ -21,3 +21,4 @@
 
 *Ejemplo de Ricoh IMC8000*
 
+![](https://github.com/Alberto-Rodriguez999/fhw-impresoras/blob/main/IMG/IMC8000.jpg)
